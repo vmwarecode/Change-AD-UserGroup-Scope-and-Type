@@ -1,1 +1,0 @@
-# Change-AD-UserGroup-Scope-and-Type
